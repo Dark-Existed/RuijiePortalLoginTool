@@ -4,6 +4,8 @@
 
 项目中的脚本文件以 **_jmu** 结尾命名的仅适用于集美大学，其他学校请使用 **_general** 结尾命名的脚本文件。
 
+> 完成福州大学新版本系统的适配
+
 更多详情以及用法等请参考：[https://lgiki.pw/2018/01/13/fxxk-ruijie-eportal/](https://lgiki.pw/2018/01/13/fxxk-ruijie-eportal/)
 
 # 用法
