@@ -3,8 +3,8 @@
 
 #If received parameters is less than 2, print usage
 if [ "$#" -lt "2" ]; then
-  echo "Usage: ./ruijie_general.sh username password"
-  echo "Example: ./ruijie_general.sh 200327001 123456"
+  echo "Usage: ./ruijie_fzu.sh username password"
+  echo "Example: ./ruijie_fzu.sh 200327001 123456"
   exit 1
 fi
 
